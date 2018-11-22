@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5283" started-at="2018-11-21T02:08:23Z" finished-at="2018-11-21T02:08:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5283" started-at="2018-11-21T02:08:23Z" finished-at="2018-11-21T02:08:28Z">
+      <class name="TestCase.BaseClass">
+        <test-method status="PASS" signature="BrowserSetup()[pri:0, instance:TestCase.BaseClass@be92ad]" name="BrowserSetup" is-config="true" duration-ms="6782" started-at="2018-11-21T02:08:16Z" finished-at="2018-11-21T02:08:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method status="PASS" signature="testcase_Start()[pri:0, instance:TestCase.BaseClass@be92ad]" name="testcase_Start" is-config="true" duration-ms="0" started-at="2018-11-21T02:08:23Z" finished-at="2018-11-21T02:08:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_Start -->
+        <test-method status="PASS" signature="HomePageTest_Tc01()[pri:0, instance:TestCase.BaseClass@be92ad]" name="HomePageTest_Tc01" duration-ms="5232" started-at="2018-11-21T02:08:23Z" finished-at="2018-11-21T02:08:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTest_Tc01 -->
+        <test-method status="PASS" signature="Testcase_complete()[pri:0, instance:TestCase.BaseClass@be92ad]" name="Testcase_complete" is-config="true" duration-ms="0" started-at="2018-11-21T02:08:28Z" finished-at="2018-11-21T02:08:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase_complete -->
+        <test-method status="PASS" signature="nextPageTest_TC02()[pri:1, instance:TestCase.BaseClass@be92ad]" name="nextPageTest_TC02" duration-ms="2" started-at="2018-11-21T02:08:28Z" finished-at="2018-11-21T02:08:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nextPageTest_TC02 -->
+        <test-method status="PASS" signature="testcase_Start()[pri:0, instance:TestCase.BaseClass@be92ad]" name="testcase_Start" is-config="true" duration-ms="0" started-at="2018-11-21T02:08:28Z" finished-at="2018-11-21T02:08:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_Start -->
+        <test-method status="PASS" signature="Testcase_complete()[pri:0, instance:TestCase.BaseClass@be92ad]" name="Testcase_complete" is-config="true" duration-ms="0" started-at="2018-11-21T02:08:28Z" finished-at="2018-11-21T02:08:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase_complete -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestCase.BaseClass@be92ad]" name="TearDown" is-config="true" duration-ms="659" started-at="2018-11-21T02:08:29Z" finished-at="2018-11-21T02:08:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCase.BaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

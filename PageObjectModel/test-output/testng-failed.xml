@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="TestCase.BaseClass">
+        <methods>
+          <include name="TearDown"/>
+          <include name="nextPageTest_TC02"/>
+          <include name="HomePageTest_Tc01"/>
+          <include name="Testcase_complete"/>
+          <include name="testcase_Start"/>
+          <include name="BrowserSetup"/>
+        </methods>
+      </class> <!-- TestCase.BaseClass -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
